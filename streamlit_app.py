@@ -5,14 +5,19 @@ import pandas as pd
 import streamlit as st
 
 """
-# MIDAS POINT
+# MidaSampler
 
 The purpose of this is to produce an infinite number of remixed
 'Samples' based on songs from an album.
 
 TODO LIST:
 
-1. 
+1. Display Album - Play Audio from each Track
+    - Add cool information to track
+2. Allow users to switch between tracks
+3. Set a "Noise level"
+4. Play the track
+5. Being able to create a mid remix between tracks
 """
 
 
