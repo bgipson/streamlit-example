@@ -5,14 +5,14 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Streamlit!
+# MIDAS POINT
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+The purpose of this is to produce an infinite number of remixed
+'Samples' based on songs from an album.
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+TODO LIST:
 
-In the meantime, below is an example of what you can do with just a few lines of code:
+1. 
 """
 
 
